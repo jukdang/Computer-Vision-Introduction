@@ -4,7 +4,7 @@
   - blurring image
  
 2. sobel filter
-  - find gradient, theta
+find gradient, theta
  
 3. non maximum suppression
   - make edge sharp
