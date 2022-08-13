@@ -14,4 +14,5 @@
     - Weak edge, Strong edge
  
 5. Edge Tracking by hysteresis
-    - transform weak edge attached to strong edge - by bfs
+    - transform weak edge attached to strong edge
+    - using BFS
