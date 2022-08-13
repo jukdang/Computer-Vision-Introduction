@@ -1,4 +1,4 @@
-###Canny Edge Detection
+### Canny Edge Detection
 
 1. noise reduction 
  - blurring image
