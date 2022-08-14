@@ -1,7 +1,7 @@
 # Computer Vision Introduction
 
 1. basic training
-    - basic trainging examples of python librarys
+    - basic trainging examples of python libraries
 2. Convolution calculate, Hybrid Image
     - make filters, function to calculate convolution operation, then make Hybrid Image by LowFrequency Image, HighFrequency Image
 3. Canny Edge Detection
