@@ -1,7 +1,6 @@
 # Computer Vision Introduction
 ###### in PNU
-------
-
+---
 1. basic training
     - basic trainging examples of python libraries
 2. Convolution calculate, Hybrid Image
